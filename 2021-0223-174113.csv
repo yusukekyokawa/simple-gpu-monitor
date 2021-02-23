@@ -1,0 +1,7 @@
+timestamp, pstate, temperature.gpu, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2021/02/23 17:41:13.963, P2, 72, 45 %, 17 %, 11178 MiB, 9277 MiB, 1901 MiB
+2021/02/23 17:41:13.964, P2, 81, 42 %, 19 %, 11177 MiB, 10003 MiB, 1174 MiB
+2021/02/23 17:41:14.965, P2, 72, 45 %, 17 %, 11178 MiB, 9277 MiB, 1901 MiB
+2021/02/23 17:41:14.965, P2, 81, 40 %, 18 %, 11177 MiB, 10003 MiB, 1174 MiB
+2021/02/23 17:41:15.966, P2, 71, 40 %, 14 %, 11178 MiB, 9277 MiB, 1901 MiB
+2021/02/23 17:41:15.966, P2, 81, 36 %, 17 %, 11177 MiB, 10003 MiB, 1174 MiB
